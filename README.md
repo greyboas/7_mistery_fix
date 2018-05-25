@@ -7,8 +7,6 @@
 Для применения функции в Вашем скрипте необходимо ее импортировать
 ```python
 from quadratic_equation import get_roots
-#или
-import get_roots
 #вызов функции
 root1, root2 = get_roots(A, B, C)
 ```
