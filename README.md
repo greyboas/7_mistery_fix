@@ -5,12 +5,13 @@
 Функции:  **get_roots** принимает три коэффициента A,B,C.
 
 Для применения функции в Вашем скрипте необходимо ее импортировать
-
-**from quadratic_equation import get_roots** или **import get_roots**
-
-## Пример использования функции
-**root1, root2 = get_roots(A, B, C)**
-
+```python
+from quadratic_equation import get_roots
+#или
+import get_roots
+#вызов функции
+root1, root2 = get_roots(A, B, C)
+```
 где:
 
 _root1_ - первый корень квадратичного уравнения
