@@ -9,7 +9,7 @@
 **from quadratic_equation import get_roots** или **import get_roots**
 
 ## Пример использования функции
-**root1, root2 = get_roots(1, -2, 1)**
+**root1, root2 = get_roots(A, B, C)**
 
 где:
 
